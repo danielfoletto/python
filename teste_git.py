@@ -9,7 +9,7 @@ def testString():
     name = 'Daniel'
     age = 36
     str = 'Meu nome é {} e eu tenho {}'
-    print(str.format(name,age))
+    print(str.format(name, age))
 
 
 def mysqlCon():
